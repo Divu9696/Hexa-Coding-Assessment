@@ -1,0 +1,11 @@
+/Users/divyanshusingh/Desktop/C#_CodingChallenge_LevelThree/PetPals.Entity/bin/Debug/net8.0/PetPals.Entity.deps.json
+/Users/divyanshusingh/Desktop/C#_CodingChallenge_LevelThree/PetPals.Entity/bin/Debug/net8.0/PetPals.Entity.dll
+/Users/divyanshusingh/Desktop/C#_CodingChallenge_LevelThree/PetPals.Entity/bin/Debug/net8.0/PetPals.Entity.pdb
+/Users/divyanshusingh/Desktop/C#_CodingChallenge_LevelThree/PetPals.Entity/obj/Debug/net8.0/PetPals.Entity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/divyanshusingh/Desktop/C#_CodingChallenge_LevelThree/PetPals.Entity/obj/Debug/net8.0/PetPals.Entity.AssemblyInfoInputs.cache
+/Users/divyanshusingh/Desktop/C#_CodingChallenge_LevelThree/PetPals.Entity/obj/Debug/net8.0/PetPals.Entity.AssemblyInfo.cs
+/Users/divyanshusingh/Desktop/C#_CodingChallenge_LevelThree/PetPals.Entity/obj/Debug/net8.0/PetPals.Entity.csproj.CoreCompileInputs.cache
+/Users/divyanshusingh/Desktop/C#_CodingChallenge_LevelThree/PetPals.Entity/obj/Debug/net8.0/PetPals.Entity.dll
+/Users/divyanshusingh/Desktop/C#_CodingChallenge_LevelThree/PetPals.Entity/obj/Debug/net8.0/refint/PetPals.Entity.dll
+/Users/divyanshusingh/Desktop/C#_CodingChallenge_LevelThree/PetPals.Entity/obj/Debug/net8.0/PetPals.Entity.pdb
+/Users/divyanshusingh/Desktop/C#_CodingChallenge_LevelThree/PetPals.Entity/obj/Debug/net8.0/ref/PetPals.Entity.dll

@@ -1,0 +1,15 @@
+/Users/divyanshusingh/Desktop/C#_CodingChallenge_LevelThree/PetPals.BusinessLayer/obj/Debug/net8.0/PetPals.BusinessLayer.csproj.AssemblyReference.cache
+/Users/divyanshusingh/Desktop/C#_CodingChallenge_LevelThree/PetPals.BusinessLayer/obj/Debug/net8.0/PetPals.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/divyanshusingh/Desktop/C#_CodingChallenge_LevelThree/PetPals.BusinessLayer/obj/Debug/net8.0/PetPals.BusinessLayer.AssemblyInfoInputs.cache
+/Users/divyanshusingh/Desktop/C#_CodingChallenge_LevelThree/PetPals.BusinessLayer/obj/Debug/net8.0/PetPals.BusinessLayer.AssemblyInfo.cs
+/Users/divyanshusingh/Desktop/C#_CodingChallenge_LevelThree/PetPals.BusinessLayer/obj/Debug/net8.0/PetPals.BusinessLayer.csproj.CoreCompileInputs.cache
+/Users/divyanshusingh/Desktop/C#_CodingChallenge_LevelThree/PetPals.BusinessLayer/bin/Debug/net8.0/PetPals.BusinessLayer.deps.json
+/Users/divyanshusingh/Desktop/C#_CodingChallenge_LevelThree/PetPals.BusinessLayer/bin/Debug/net8.0/PetPals.BusinessLayer.dll
+/Users/divyanshusingh/Desktop/C#_CodingChallenge_LevelThree/PetPals.BusinessLayer/bin/Debug/net8.0/PetPals.BusinessLayer.pdb
+/Users/divyanshusingh/Desktop/C#_CodingChallenge_LevelThree/PetPals.BusinessLayer/bin/Debug/net8.0/PetPals.Entity.dll
+/Users/divyanshusingh/Desktop/C#_CodingChallenge_LevelThree/PetPals.BusinessLayer/bin/Debug/net8.0/PetPals.Entity.pdb
+/Users/divyanshusingh/Desktop/C#_CodingChallenge_LevelThree/PetPals.BusinessLayer/obj/Debug/net8.0/PetPals..E48E12B0.Up2Date
+/Users/divyanshusingh/Desktop/C#_CodingChallenge_LevelThree/PetPals.BusinessLayer/obj/Debug/net8.0/PetPals.BusinessLayer.dll
+/Users/divyanshusingh/Desktop/C#_CodingChallenge_LevelThree/PetPals.BusinessLayer/obj/Debug/net8.0/refint/PetPals.BusinessLayer.dll
+/Users/divyanshusingh/Desktop/C#_CodingChallenge_LevelThree/PetPals.BusinessLayer/obj/Debug/net8.0/PetPals.BusinessLayer.pdb
+/Users/divyanshusingh/Desktop/C#_CodingChallenge_LevelThree/PetPals.BusinessLayer/obj/Debug/net8.0/ref/PetPals.BusinessLayer.dll

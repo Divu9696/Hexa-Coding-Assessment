@@ -1,0 +1,8 @@
+Buddy,3,Golden Retriever
+Whiskers,2,Siamese
+Charlie,5,Labrador
+Max,1,Pug
+Mittens,4,Persian
+Bella,2,Beagle
+Daisy,3,Boxer
+Oliver,6,British Shorthair
